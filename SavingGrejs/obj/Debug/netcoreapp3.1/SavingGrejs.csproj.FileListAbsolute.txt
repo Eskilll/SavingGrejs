@@ -1,0 +1,11 @@
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\bin\Debug\netcoreapp3.1\SavingGrejs.exe
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\bin\Debug\netcoreapp3.1\SavingGrejs.deps.json
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\bin\Debug\netcoreapp3.1\SavingGrejs.runtimeconfig.json
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\bin\Debug\netcoreapp3.1\SavingGrejs.runtimeconfig.dev.json
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\bin\Debug\netcoreapp3.1\SavingGrejs.dll
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\bin\Debug\netcoreapp3.1\SavingGrejs.pdb
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\obj\Debug\netcoreapp3.1\SavingGrejs.csprojAssemblyReference.cache
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\obj\Debug\netcoreapp3.1\SavingGrejs.AssemblyInfoInputs.cache
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\obj\Debug\netcoreapp3.1\SavingGrejs.AssemblyInfo.cs
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\obj\Debug\netcoreapp3.1\SavingGrejs.dll
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\SavingGrejs\SavingGrejs\obj\Debug\netcoreapp3.1\SavingGrejs.pdb
