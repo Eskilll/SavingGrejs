@@ -31,14 +31,16 @@ namespace SavingGrejs
 
                     
                     //damage
-            while(wot != true ){
+                    bool wott = false;
+                    int anss = 0;
+            while(wott != true ){
                     System.Console.WriteLine("Choose how much damage it does!");
-                    string tal = System.Console.ReadLine();
-                    wot = int.TryParse(tal, out ans);
-                    if(wot == false){
+                    string i = System.Console.ReadLine();
+                    wott = int.TryParse(i, out anss);
+                    if(wott == false){
                         System.Console.WriteLine("NUMBERS YOU FUK");
                     }
-                    theBarbarian.damage = ans;
+                    theBarbarian.damage = anss;
                     }
             
             using (FileStream file = File.Open(@"barb.xml", FileMode.OpenOrCreate))
